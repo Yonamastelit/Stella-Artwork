@@ -1,0 +1,48 @@
+img {
+	height: 300px;
+	width: 30%;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin: 1.66%
+	
+}
+
+.navbar {
+
+	background: rgb(0,0,0);
+	position: fixed;
+}
+
+
+form{
+	margin-top: 20px;
+	transition: all 4s ease-in-out;
+	text-align: center;
+}
+
+.contact-title h4{
+	margin-top: 100px
+	color: #fff;
+	
+	transition: all 4s ease-in-out;
+}
+
+input{
+	height: 45px;
+}
+form .submit{
+	background: blue
+}
+
+.form-control
+{
+
+background: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid gray;
+font-size: 18px;
+
+}
+
